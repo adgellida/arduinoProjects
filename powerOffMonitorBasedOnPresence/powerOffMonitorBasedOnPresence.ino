@@ -1,8 +1,8 @@
 /*
-  DigitalReadSerial
- Reads a digital input on pin 2, prints the result to the serial monitor
+  powerOffMonitorBasedOnPresence
+ Power off your monitor if you go away from your desk and power on if you return.
 
- This example code is in the public domain.
+ Author: Antonio David Gellida Lavara
  */
 
 // digital pin 2 has a pushbutton attached to it. Give it a name:

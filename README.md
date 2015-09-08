@@ -8,15 +8,15 @@ A collection of arduino Projects on developing state.
 Project list
 =============================================
 
-* [alarmOverflowingLiquid](https://github.com/adgellida/arduinoProjects/alarmOverflowingLiquid)
+* [alarmOverflowingLiquid](https://github.com/adgellida/arduinoProjects/tree/master/alarmOverflowingLiquid)
 
 Based on a maxim level, checks if a liquid is overflowing it and an alarm sounds.
 
-* [arduinoPicProgrammer](https://github.com/adgellida/arduinoProjects/arduinoPicProgrammer)
+* [arduinoPicProgrammer](https://github.com/adgellida/arduinoProjects/tree/master/arduinoPicProgrammer)
 
 Usefull if you want to burn a program or bootloader on a Microchip PIC with an Arduino.
 
-* [powerOffMonitorBasedOnPresence](https://github.com/adgellida/arduinoProjects/powerOffMonitorBasedOnPresence)
+* [powerOffMonitorBasedOnPresence](https://github.com/adgellida/arduinoProjects/tree/master/powerOffMonitorBasedOnPresence)
 
 Power off your monitor if you go away from your desk and power on if you return.
 
