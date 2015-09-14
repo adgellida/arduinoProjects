@@ -16,9 +16,23 @@ Based on a maxim level, checks if a liquid is overflowing it and an alarm sounds
 
 Usefull if you want to burn a program or bootloader on a Microchip PIC with an Arduino.
 
+* [bionicFinger](https://github.com/adgellida/arduinoProjects/tree/master/bionicFinger)
+
+Touch the button repeately to score high!
+
+* [irCommunication](https://github.com/adgellida/arduinoProjects/tree/master/irCommunication)
+
+Push IR remote buttons to do actions!
+DigitalToggle library has benn modified to work properly.
+
 * [powerOffMonitorBasedOnPresence](https://github.com/adgellida/arduinoProjects/tree/master/powerOffMonitorBasedOnPresence)
 
 Power off your monitor if you go away from your desk and power on if you return.
+For now if sensor detects you blinks a led for 2-3 seconds aprox.
+TO DO:
+* Change led state with command to power on/off monitor.
+* If sensor detects you go away power off monitor.
+* If sensor detects you return power on monitor.
 
 Important
 =============================================
