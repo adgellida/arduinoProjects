@@ -1,3 +1,9 @@
+/*
+	irCommunication
+
+	Author: Antonio David Gellida Lavara - @adgellida
+*/
+
 #include <DigitalToggle.h>
 #include <NECIRrcv.h>
 #define IRPIN 4    // pin that IR detector is connected to

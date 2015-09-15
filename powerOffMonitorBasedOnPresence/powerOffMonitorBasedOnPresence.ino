@@ -1,9 +1,8 @@
 /*
-  powerOffMonitorBasedOnPresence
- Power off your monitor if you go away from your desk and power on if you return.
+	powerOffMonitorBasedOnPresence
 
- Author: Antonio David Gellida Lavara
- */
+	Author: Antonio David Gellida Lavara
+*/
 
 // digital pin 2 has a pushbutton attached to it. Give it a name:
 int pushButton = 12;

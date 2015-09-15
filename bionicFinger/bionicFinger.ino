@@ -1,3 +1,9 @@
+/*
+	bionicFinger
+
+	Author: Antonio David Gellida Lavara - @adgellida
+*/
+
 #include <LiquidCrystal.h>
 #include <EEPROM.h>
 
