@@ -24,11 +24,16 @@ Touch the button repeately to score high!
 
 Push IR remote buttons to do actions!
 DigitalToggle library has benn modified to work properly.
+Add both libraries.
+If you push button 2 a led turns ON, if you push another time it turns OFF.
+Do the same with button 3.
+It doesn't work perfect but is very functional.
 
 * [powerOffMonitorBasedOnPresence](https://github.com/adgellida/arduinoProjects/tree/master/powerOffMonitorBasedOnPresence)
 
 Power off your monitor if you go away from your desk and power on if you return.
 For now if sensor detects you blinks a led for 2-3 seconds aprox.
+
 TO DO:
 * Change led state with command to power on/off monitor.
 * If sensor detects you go away power off monitor.
