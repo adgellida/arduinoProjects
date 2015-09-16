@@ -12,7 +12,7 @@ Project list
 
 100% Completed.
 
-When water overcomes the middle of the sensor a LED blinks, if not the LED is OFF.
+When water overcomes the middle of the water sensor a LED blinks, if not the LED is OFF.
 
 Applications: Based on a maxim level, checks if a liquid is overflowing it and an alarm sounds. For example air aconditioner.
 
@@ -24,19 +24,19 @@ Usefull if you want to burn a program or bootloader on a Microchip PIC with an A
 
 * [bionicFinger](https://github.com/adgellida/arduinoProjects/tree/master/bionicFinger)
 
-75% Completed.
+100% Completed.
 
 Touch the button repeately to score high!
+
+Libraries picked from [here](https://github.com/WickedDevice/SoftReset)
+
+Applications: Games.
 
 * [irCommunication](https://github.com/adgellida/arduinoProjects/tree/master/irCommunication)
 
 100% Completed.
 
 Push IR remote buttons to do actions!
-
-DigitalToggle library has benn modified to work properly.
-
-Add both libraries.
 
 If you push button 2 a LED turns ON, if you push another time it turns OFF.
 
@@ -45,6 +45,10 @@ Do the same with button 3.
 It doesn't work perfect but is very functional.
 
 Applications: You can connect outputs to anything and you control them with an IR remote control.
+
+Libraries picked from [NECIRrcv](http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1210243556)
+
+and [DigitalToggle](http://playground.arduino.cc/Code/DigitalToggle) - DigitalToggle library has been modified to work properly.
 
 * [powerOffMonitorBasedOnPresence](https://github.com/adgellida/arduinoProjects/tree/master/powerOffMonitorBasedOnPresence)
 
@@ -55,9 +59,9 @@ For now if sensor detects you blinks a LED for 2-3 seconds aprox.
 
 TO DO:
 
-* Change LED state with command to power on/off monitor.
-* If sensor detects you go away power off monitor.
-* If sensor detects you return power on monitor.
+* Change LED state with command to power ON/OFF monitor.
+* If sensor detects you go away power OFF monitor.
+* If sensor detects you return power ON monitor.
 
 Important
 =============================================
