@@ -8,6 +8,12 @@ A collection of arduino Projects on developing state.
 Project list
 =============================================
 
+* [alarm](https://github.com/adgellida/arduinoProjects/tree/master/alarm)
+
+0% Completed.
+
+An alarm system. Notifications via: GSM, Internet, bluetooth, wifi.
+
 * [alarmOverflowingLiquid](https://github.com/adgellida/arduinoProjects/tree/master/alarmOverflowingLiquid)
 
 100% Completed.
@@ -32,6 +38,14 @@ Libraries picked from [here](https://github.com/WickedDevice/SoftReset)
 
 Applications: Games.
 
+* [homeAutomation](https://github.com/adgellida/arduinoProjects/tree/master/homeAutomation)
+
+0% Completed.
+
+You can execute voice controls to control all that you want on your house.
+Advanced management of your home resources: Shopping basket, ilumination, temperature, switching-on-off devices, etc.
+
+
 * [irCommunication](https://github.com/adgellida/arduinoProjects/tree/master/irCommunication)
 
 100% Completed.
@@ -49,6 +63,12 @@ Applications: You can connect outputs to anything and you control them with an I
 Libraries picked from [NECIRrcv](http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1210243556)
 
 and [DigitalToggle](http://playground.arduino.cc/Code/DigitalToggle) - DigitalToggle library has been modified to work properly.
+
+* [motionActivatedCamera](https://github.com/adgellida/arduinoProjects/tree/master/motionActivatedCamera)
+
+0% Completed.
+
+Take pictures with camera when motion is detected, using a PIR sensor. It notificates you via mail. 
 
 * [powerOffMonitorBasedOnPresence](https://github.com/adgellida/arduinoProjects/tree/master/powerOffMonitorBasedOnPresence)
 
