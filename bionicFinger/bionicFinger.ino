@@ -1,6 +1,5 @@
 /*
 	bionicFinger
-
 	Author: Antonio David Gellida Lavara - @adgellida
 */
 
@@ -31,10 +30,10 @@ byte highScore;
 
 //Functions Declarations
 
-int ShowMaxScore();
-int PlayMode();
-int GamePulsationScreenCreation();
-int WarmUpScreen();
+void ShowMaxScore();
+void PlayMode();
+void GamePulsationScreenCreation();
+void WarmUpScreen();
 
 //Setup
 
@@ -114,7 +113,7 @@ void loop() {
 
 //Functions Implementations
 
-int ShowMaxScore() {
+void ShowMaxScore() {
 
   lcd.clear();
   lcd.setCursor(0, 0);
@@ -126,7 +125,7 @@ int ShowMaxScore() {
 
 }
 
-int WarmUpScreen() {
+void WarmUpScreen() {
 
   lcd.clear();
   lcd.setCursor(0, 0);
@@ -150,7 +149,7 @@ int WarmUpScreen() {
 
 }
 
-int GamePulsationScreenCreation() {
+void GamePulsationScreenCreation() {
 
   lcd.clear();
   lcd.setCursor(0, 0);
@@ -160,7 +159,7 @@ int GamePulsationScreenCreation() {
 
 }
 
-int PlayMode() {
+void PlayMode() {
 
   while (millis() < gamingTime) {
 
