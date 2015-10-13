@@ -1,13 +1,11 @@
 ####arduinoProjects
 =============================================
-
 ![](https://store.arduino.cc/includes/images/stickers_logo_text.png)
 
 A collection of arduino Projects on developing state.
 
 Project list
 =============================================
-
 * [alarm](https://github.com/adgellida/arduinoProjects/tree/master/alarm)
 
 0% Completed.
