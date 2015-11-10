@@ -20,6 +20,8 @@ When water overcomes the middle of the water sensor a LED blinks, if not the LED
 
 Applications: Based on a maxim level, checks if a liquid is overflowing it and an alarm sounds. For example air aconditioner.
 
+![](https://raw.githubusercontent.com/adgellida/arduinoProjects/master/alarmOverflowingLiquid/alarmOverflowingLiquid_bb.png)
+
 * [arduinoPicProgrammer](https://github.com/adgellida/arduinoProjects/tree/master/arduinoPicProgrammer)
 
 0% Completed.
