@@ -45,7 +45,6 @@ Applications: Games.
 You can execute voice controls to control all that you want on your house.
 Advanced management of your home resources: Shopping basket, ilumination, temperature, switching-on-off devices, etc.
 
-
 * [irCommunication](https://github.com/adgellida/arduinoProjects/tree/master/irCommunication)
 
 100% Completed.
@@ -63,6 +62,8 @@ Applications: You can connect outputs to anything and you control them with an I
 Libraries picked from [NECIRrcv](http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1210243556)
 
 and [DigitalToggle](http://playground.arduino.cc/Code/DigitalToggle) - DigitalToggle library has been modified to work properly.
+
+![](https://raw.githubusercontent.com/adgellida/arduinoProjects/master/irCommunication/irCommunication_bb.png)
 
 * [motionActivatedCamera](https://github.com/adgellida/arduinoProjects/tree/master/motionActivatedCamera)
 
