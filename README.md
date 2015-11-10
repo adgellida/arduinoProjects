@@ -81,7 +81,7 @@ TO DO:
 * If sensor detects you go away power OFF monitor.
 * If sensor detects you return power ON monitor.
 
-![](https://github.com/adgellida/arduinoProjects/tree/master/powerOffMonitorBasedOnPresence_bb.png)
+![](https://raw.githubusercontent.com/adgellida/arduinoProjects/master/powerOffMonitorBasedOnPresence/powerOffMonitorBasedOnPresence_bb.png)
 
 Important
 =============================================
