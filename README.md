@@ -1,6 +1,6 @@
 ####arduinoProjects
 =============================================
-![](https://store.arduino.cc/includes/images/stickers_logo_text.png)
+![](https://pbs.twimg.com/profile_images/378800000704356438/9d19310763171b0d958d23a18b3d7e1c_400x400.png)
 
 A collection of arduino Projects on developing state.
 
@@ -80,6 +80,8 @@ TO DO:
 * Change LED state with command to power ON/OFF monitor.
 * If sensor detects you go away power OFF monitor.
 * If sensor detects you return power ON monitor.
+
+![](https://github.com/adgellida/arduinoProjects/tree/master/powerOffMonitorBasedOnPresence_bb.png)
 
 Important
 =============================================
