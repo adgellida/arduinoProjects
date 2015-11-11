@@ -38,7 +38,7 @@ Applications: Games.
 
 Libraries picked from [here](https://github.com/WickedDevice/SoftReset)
 
-![](https://raw.githubusercontent.com/adgellida/arduinoProjects/master/bionicFinger/bionicFinger.png)
+![](https://raw.githubusercontent.com/adgellida/arduinoProjects/master/bionicFinger/bionicFinger_bb.png)
 
 * [homeAutomation](https://github.com/adgellida/arduinoProjects/tree/master/homeAutomation)
 
