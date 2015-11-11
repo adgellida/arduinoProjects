@@ -34,9 +34,11 @@ Usefull if you want to burn a program or bootloader on a Microchip PIC with an A
 
 Touch the button repeately to score high!
 
+Applications: Games.
+
 Libraries picked from [here](https://github.com/WickedDevice/SoftReset)
 
-Applications: Games.
+![](https://raw.githubusercontent.com/adgellida/arduinoProjects/master/bionicFinger/bionicFinger.png)
 
 * [homeAutomation](https://github.com/adgellida/arduinoProjects/tree/master/homeAutomation)
 
