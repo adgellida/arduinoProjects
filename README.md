@@ -1,6 +1,19 @@
 <img src="https://pbs.twimg.com/profile_images/378800000704356438/9d19310763171b0d958d23a18b3d7e1c_400x400.png" width="80"> arduinoProjects
 =============================================
 
+<p align="center">
+    <a href="https://www.gnu.org/licenses/gpl-2.0.en.html" target="_blank"><img src="https://img.shields.io/badge/license-GPLv2-blue.svg" alt="GNU GPL v2"></a>
+    <a href="https://github.com/adgellida/arduinoProjects/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/adgellida/arduinoProjects.svg" alt="stars"></a>
+    <a href="https://github.com/adgellida/arduinoProjects/network" target="_blank"><img src="https://img.shields.io/github/forks/adgellida/arduinoProjects.svg" alt="forks"></a>
+    <a href="https://github.com/adgellida/arduinoProjects/issues?q=is%3Aopen" target="_blank"><img src="https://img.shields.io/github/issues/adgellida/arduinoProjects.svg" alt="open issues"></a>
+    <a href="https://github.com/adgellida/arduinoProjects/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/adgellida/arduinoProjects/total.svg" alt="total downloads"></a>
+    <a href="https://github.com/adgellida/arduinoProjects/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/adgellida/arduinoProjects/v2017.09.09/total.svg" alt="total downloads latest release"></a>
+    <a href="https://github.com/adgellida/arduinoProjects/releases/latest" target="_blank"><img src="https://img.shields.io/badge/latest release-no releases-blue.svg" alt="latest release"></a>
+    <a href="https://github.com/adgellida/arduinoProjects/commits/master" target="_blank"><img src="https://img.shields.io/badge/maintained-no-red.svg" alt="maintained"></a>
+    <a href="https://github.com/adgellida/arduinoProjects/releases"><img src="https://img.shields.io/badge/platform-Arduino-lightgrey.svg" alt="Platforms"></a>
+    <a href="https://github.com/adgellida/arduinoProjects/releases"><img src="https://img.shields.io/badge/status-alpha-orange.svg" alt="Status"></a>
+</p>
+
 A collection of arduino Projects on developing state.
 
 Project list
